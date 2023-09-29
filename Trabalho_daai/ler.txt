@@ -1,0 +1,11 @@
+exemplo admin- email:admin@admin.com
+       		password:admin123
+
+exemplo user- Paulo- email:pn-jeronimmo@hotmail.com
+	      password:pauloj
+
+O trabalho está um pouco incompleto, uma vez que o jogar quiz não está a funcionar corretamente
+e falta a opção do user poder editar o perfil e na parte do admin de poder adicionar novos quiz.
+Não me querendo queixar, e pedindo desde já desculpa, contudo o meu portátil estragou-se 
+e consequentemente perdi todo o trabalho realizado até então, pelo que não tive muito tempo
+para o terminar aliado à necessidade de realização de outros trabalhos.
